@@ -1,0 +1,4 @@
+CREATE TABLE #customer
+(
+     Name varchar(32) not null
+)
